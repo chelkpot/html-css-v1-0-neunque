@@ -1,0 +1,23 @@
+h1, h2 {
+  color: rgb(12, 231, 247);
+}
+body {
+  font-family: Verdana, sans-serif;
+  font-size: 16px;
+}
+.block {
+  background-color: rgb(47, 12, 243);
+  padding: 10px;
+}
+.block {
+  color: rgb(231, 20, 119);
+}
+#hleb {
+  background-color: lightblue;
+  padding: 15px;
+  border: 2px solid rgb(6, 240, 45);
+}
+#hleb > span {
+  color: rgb(224, 228, 8);
+  font-weight: bold;
+}
